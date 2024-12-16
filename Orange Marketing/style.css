@@ -1,0 +1,110 @@
+
+*{
+    text-decoration: none;
+    color: black;
+}
+.head{
+    height: 64px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    
+}
+.head > .head-ung a:hover{
+    color: #DD4400;
+}
+.head > .head-chap a:hover{
+color: #DD4400;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 50px auto;
+    width: 80%;
+}
+.rang-orqa{
+    background-color: #DD4400;
+    color: #FFFFFF;
+}
+.rang-oldi{
+    color: #DD4400;
+}
+.head-chap{
+    display: flex;
+    align-items: center;
+}
+.head a{
+    margin: 0 10px;
+}
+.box{
+    width: 186px;
+    height: 255px;
+    border: 1px solid gray;
+    text-align: center;
+    
+}
+.bbb{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-top: 2px solid #DD4400;
+    padding: 20px 0;
+    
+}
+.main >  img{
+    width: 50px;
+    height: 50px;
+}
+.center{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    width: 80%;
+    
+    
+}
+.centerLeft{
+    width: 60%;
+}
+.centerRight{
+    width: 30%;
+}
+.dox{
+    display: flex;
+}
+.dox-text p{
+    color: #DD4400;
+    width: 40%;
+    margin-top: 0px;
+    margin-left: 50px;
+}
+.centerLeft > button{
+    color: #FFFFFF;
+ background-color: #DD4400;
+ margin-top: 30x;
+ width: 146px;
+ height: 29px;
+}
+.footer{
+    height: 183px;
+    background-color: #DD4400;
+}
+.footer-ichi{
+    display: flex;
+    justify-content:space-between;
+    width: 80%;
+    margin: auto;
+}
+.ung{
+    text-align: right;
+    color: #FFFFFF;
+
+}
+.footer-ichi h3 , h2 , h4{
+    color: white;
+}

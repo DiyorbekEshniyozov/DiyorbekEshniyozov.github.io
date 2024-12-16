@@ -1,0 +1,16 @@
+.menu{
+    max-width: 1200px;
+    height: 600px;
+    background-color: darkgreen;
+    display: flex;
+    margin: auto;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border: 2px solid black;
+}

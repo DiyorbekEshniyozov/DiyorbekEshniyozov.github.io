@@ -1,0 +1,123 @@
+.container {
+    max-width: 1200px;
+    padding: 0 20px;
+    margin: auto;
+}
+
+.nav {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.nav-header {
+    margin-top: 90px;
+    background-image: url(./book\ 2.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    padding: 60px;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 58.59px;
+    color: #494949;
+}
+
+.nav-123 {
+    color: black;
+    width: 330px;
+    height: 280px;
+    background-color: #c4c4c4;
+    size: 15px;
+    line-height: 17.58px;
+    font-weight: 600;
+    padding: 30px;
+}
+
+.nav-123 h3 {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 25.78px;
+}
+
+.nav-123 p {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 17.58px;
+    left: 220px;
+    top: 881px;
+    width: 239px;
+    height: 223px;
+}
+.nav-124{
+    color: black;
+    width: 330px;
+    height: 280px;
+    background-color: #c4c4c4;
+    size: 15px;
+    line-height: 17.58px;
+    padding: 30px;
+}
+.nav-124 h3{
+    font-weight: 600;
+    size: 22px;
+    line-height: 25.78px;
+}
+.nav-124 p {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 17.58px;
+    left: 585px;
+    top: 881px;
+    width: 239px;
+    height: 223px;
+}
+.nav-125 {
+    color: black;
+    width: 330px;
+    height: 280px;
+    background-color: #c4c4c4;
+    size: 15px;
+    font-weight: 600;
+    padding: 30px;
+}
+.nav-125 p {
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 17.58px;
+    left: 950px;
+    top: 881px;
+    width: 239px;
+    height: 223px;
+}
+.nav-125 h3{
+    font-weight: 600;
+    size: 22px;
+    line-height: 25.78px;
+}
+.nav-000{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 40px;
+}
+
+.button{
+    height: 260px;
+    background-color: #c4c4c4;
+    margin-top: 110px;
+}
+
+.button-text{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 70px;
+}

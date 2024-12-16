@@ -1,0 +1,89 @@
+.header{
+    background-image: url(./header_bg_image\ 1.jpg);
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+
+}
+.nav{
+    display: flex;
+
+}
+.nav1{
+   width: 30%;
+   text-align: center;
+}
+.nav2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 50%;
+    height: 60px;
+}
+.nav2 a{
+    text-decoration: none;
+}
+.head{
+    display: flex;
+ justify-content: center;
+ flex-direction: column;
+ text-align: center;
+ margin-top: 100px;
+}
+.kkk{
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    width: 100px;
+    height: 35px;
+    margin-top: -5px;
+    align-content: center;
+}
+.nav h2{
+    color: red;
+}
+.head h2{
+    color: red;
+}
+
+main{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
+    margin-top: 50px;
+}
+.main-content{
+    display: flex;
+}
+.main-chap{
+    width: 40%;
+}
+.main-chap p{
+    color: #919191;
+}
+.main-ung{
+    width: 48%;
+}
+.main-content-ung{
+    margin-left: 10px;
+    margin-bottom: 30px;
+    color: #919191;
+}
+.narxlar{
+    display: flex;
+    justify-content: space-between;
+    max-width: 75%;
+    margin: auto;
+}
+span{
+    color: red;
+}
+h2{
+    color: black;
+}
+.footer p{
+    color: #919191;
+}
+.nav2 > a:hover{
+    color: #919191;
+   }
